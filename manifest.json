@@ -1,0 +1,21 @@
+{
+    "name": "FisFis",
+    "short_name": "FisFis",
+    "lang": "en-US",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "icons": [
+        {
+          "src": "/public/images/logo.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "/public/images/logo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+  }
